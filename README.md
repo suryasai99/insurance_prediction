@@ -1,4 +1,8 @@
 # Insurance_Premium_Prediction
+* This is an End-to-End project and the Entire whole code will be in the src folder with components and pipelines.
+  and the performance of the model you can find in artifacts/Model_Evaluation in the json file 
+
+* You can see the EDA in notebooks/EDA.ipynb
 
 This dataset is taken from:
 * https://www.kaggle.com/datasets/noordeen/insurance-premium-prediction

@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-artifacts/
+
+artifacts/Data_Ingestion
+artifacts/Data_Transformation
+artifacts/Model_training
 
 # C extensions
 *.so
